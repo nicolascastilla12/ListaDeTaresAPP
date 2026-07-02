@@ -1,6 +1,6 @@
 # Gestor de Gastos Personales (Mis Finanzas)
 
-**Estudiante:** [Tu Nombre Completo Aquí]
+Estudiante: Johan nicolas castilla pinzon
 
 ## Descripción de la Aplicación
 Esta aplicación es una herramienta nativa de Android diseñada para ayudar a los usuarios a llevar un control detallado de sus finanzas personales. Permite registrar ingresos y gastos, proporcionando una interfaz clara y persistencia de datos local mediante una base de datos SQLite.
